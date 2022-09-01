@@ -7,7 +7,7 @@ import mysql.connector
 '''connection = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="Cihan0156",
+        password="???????",
         database="schooldb")'''
 
 class Student:
